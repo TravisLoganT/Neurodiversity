@@ -19,7 +19,3 @@ This repository contains a full-stack web application designed to raise awarenes
 - Node.js v14 or above
 - MongoDB v4.4 or above
 - npm v6 or above
-
-
-
-

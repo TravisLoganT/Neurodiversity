@@ -26,29 +26,29 @@
 }
 
 .category.adhd {
-    background-color: orange;
+    background-color: var(--adhd);
 }
 
 .category.autism {
-    background-color: blue;
+    background-color: var(--autism);
     color: white
 }
 
-.category.dslexia {
-    background-color: green;
+.category.dyslexia {
+    background-color: var(--dyslexia);
 }
 
 .category.anxiety {
-    background-color: grey;
+    background-color: var(--anxiety);
 }
 
 .category.depression {
-    background-color: black;
+    background-color: var(--depression);
     color: white;
 }
 
 .category.ocd {
-    background-color: red;
+    background-color: var(--ocd);
 }
 
 

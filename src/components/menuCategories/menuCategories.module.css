@@ -1,0 +1,68 @@
+.categoryList {
+    margin-top: 35px;
+    margin-bottom: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.categoryItem {
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-size: 14px;
+}
+
+.categoryItem.adhd {
+    background-color: var(--adhd);
+    color: black;
+}
+
+.categoryItem.autism {
+    background-color: var(--autism);
+    color: white
+}
+
+.categoryItem.dyslexia {
+    background-color: var(--dyslexia);
+}
+
+.categoryItem.anxiety {
+    background-color: var(--anxiety);
+}
+
+.categoryItem.depression {
+    background-color: var(--depression);
+    color: white;
+}
+
+.categoryItem.ocd {
+    background-color: var(--ocd);
+}
+
+.categoryItem.bipolar {
+    background-color: var(--bipolar);
+}
+
+.categoryItem.schizophrenia {
+    background-color: var(--schizophrenia);
+}
+
+.categoryItem.tourette {
+    background-color: var(--tourette);
+}
+
+.categoryItem.ptsd {
+    background-color: var(--ptsd);
+    color: black;
+}
+
+.categoryItem.alzheimer {
+    background-color: var(--alzheimer);
+    color: black;
+}
+
+.categoryItem.parkinson {
+    background-color: var(--parkinson);
+    color: black;
+}
+

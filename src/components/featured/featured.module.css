@@ -7,6 +7,10 @@
     font-weight: 300;
 }
 
+.subtitle {
+    font-size: 70px;
+}
+
 .post {
     margin-top: 60px;
     display: flex;

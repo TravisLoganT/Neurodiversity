@@ -3,6 +3,20 @@
     --textColor:black;
     --softBg: #f0f0f0;
     --softTextColor: #626262;
+
+    /* colors for different NDs */
+    --adhd: orange;
+    --autism: blue;
+    --dyslexia: green;
+    --anxiety: grey;
+    --depression: black;
+    --ocd: red;
+    --bipolar: purple;
+    --schizophrenia: teal;
+    --tourette: brown;
+    --ptsd: yellow;
+    --alzheimer: lavender;
+    --parkinson: gold;
 }
 
 * {

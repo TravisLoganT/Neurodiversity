@@ -22,12 +22,11 @@ const MenuPosts = ({ withImage }) => {
             Depression
           </span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptatibus!
+          Seeing Light in the Darkness
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.date}> - 23.09.2023</span>
           </div>
         </div>
       </Link>
@@ -48,12 +47,11 @@ const MenuPosts = ({ withImage }) => {
             anxiety
           </span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptatibus!
+          Coping Mechanisms for Anxiety Disorders
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
-            <span className={styles.date}> - 10.03.2023</span>
+            <span className={styles.date}> - 28.09.2023 -</span>
           </div>
         </div>
       </Link>
@@ -71,8 +69,7 @@ const MenuPosts = ({ withImage }) => {
         <div className={styles.textContainer}>
           <span className={`${styles.category} ${styles.autism}`}>Autism</span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptatibus!
+          Understanding Autism Spectrum: Beyond Social Skills
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>
@@ -94,8 +91,7 @@ const MenuPosts = ({ withImage }) => {
         <div className={styles.textContainer}>
           <span className={`${styles.category} ${styles.ocd}`}>OCD</span>
           <h3 className={styles.postTitle}>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam,
-            voluptatibus!
+          Beyond Cleaning: The Reality of OCD
           </h3>
           <div className={styles.detail}>
             <span className={styles.username}>John Doe</span>

@@ -12,12 +12,14 @@ const Footer = () => {
           <h1 className={styles.logoText}>Travis Logan</h1>
         </div>
         <p className={styles.desc}>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam,
-          quod.
+          Welcome to this platform to help you learn about all the types and the
+          intricate differences of people who have experianced
+          Neurodiversities. We want to help people feel inspired about their
+          unique differences! As well as help people understand the differences
+          of others. How you can help and how you can be helped.
         </p>
         <div className={styles.icons}>
           <Image src="/facebook.png" alt="Facebook" width={18} height={18} />
-          <Image src="/twitter.png" alt="Twitter" width={18} height={18} />
           <Image src="/instagram.png" alt="Instagram" width={18} height={18} />
         </div>
       </div>
@@ -40,7 +42,7 @@ const Footer = () => {
           <span className={styles.listTitle}>Links</span>
           <Link href="/">Facebook</Link>
           <Link href="/">Instagram</Link>
-          <Link href="/">Twitter</Link>
+      
         </div>
       </div>
     </div>
